@@ -1,0 +1,106 @@
+.cabecera {
+    text-align: center;
+    background-color:#ecbdcd;
+    
+}
+
+html {
+    background-color: #e2dbdb;
+}
+
+img.foto {
+    max-width: 250px;
+    border-radius: 50%;
+   
+
+}
+h1 {
+    text-align: center;
+    background-color:#cc72a1;
+    color:whitesmoke;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    margin:0px;
+
+}
+
+
+h3.datos {
+    text-align: center;
+    background-color:#ffffff;
+    color:#cc72a1;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+h3.formacion {
+    text-align: center;
+    background-color: #ffffff;
+    color: #cc72a1;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h3.experiencia {
+
+    text-align: center;
+    background-color: #ffffff;
+    color: #cc72a1;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+p.user {
+    text-align: center;
+    background-color: #cc72a1;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+ul.infodatos{
+    font-size: 30px;
+}
+
+h3.infoformacion{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+h3.infoexperiencia{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+h3.carrera{
+        font-size: 25px;
+}
+
+h3.cargo{
+    font-size: 25px;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    height: 37px;
+    left:0px;
+    
+}
+img.redesig{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 60%;
+   
+}
+
+img.redesin{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 65%;
+}
